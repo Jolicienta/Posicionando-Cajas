@@ -1,0 +1,45 @@
+.bloque_externo{
+  background-color: #FF0000;
+  width: 300px;
+  height: 300px;
+}
+
+.bloque_interno{
+  background-color: #800080;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  margin: 75px;
+}
+
+.bloque_pequeño{
+  background-color: #FFFF00;
+  width: 75px;
+  height: 75px;
+  position: absolute;
+  margin-top: 75px;
+  margin-left: 75px;
+}
+
+.bloque_externo2{
+  background-color: #0000FF;
+  width: 300px;
+  height: 300px;
+  margin-top: 15px;
+}
+
+.bloque_interno2{
+  background-color: #008000;
+  width: 150px;
+  height: 150px;
+  margin-top: 75px;
+  margin-left: 75px;
+  position: absolute;
+}
+
+.bloque_pequeño2{
+  background-color: #000000;
+  width: 75px;
+  height: 75px;
+  position: absolute;
+}
